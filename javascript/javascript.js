@@ -429,5 +429,190 @@ $(document).ready(function () {
         showCursor: false,
         typeSpeed: 150
     });
+    //How to do Digital Drawings
+    $("#titulohowpc1").typed({
+        strings: ["Tutorials to do Digital Drawings"],
+        showCursor: false,
+        typeSpeed: 75
+    });
+
+    $("#subtitulohowpc1").typed({
+        strings: ["Sketch"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowpc2").typed({
+        strings: ["Beginner Guide"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowpc3").typed({
+        strings: ["Hair"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowpc4").typed({
+        strings: ["Lines"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowpc5").typed({
+        strings: ["Grass"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowpc6").typed({
+        strings: ["Eyes"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    //How to do Music
+    $("#titulohowmusic1").typed({
+        strings: ["Tutorials to do Music"],
+        showCursor: false,
+        typeSpeed: 75
+    });
+
+    $("#subtitulohowmusic1").typed({
+        strings: ["10 Minutes"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowmusic2").typed({
+        strings: ["Ableton Live"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowmusic3").typed({
+        strings: ["Metal"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowmusic4").typed({
+        strings: ["Riffs"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowmusic5").typed({
+        strings: ["Composing"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowmusic6").typed({
+        strings: ["Minecraft"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    //How to do Videogames
+    $("#titulohowgames1").typed({
+        strings: ["Tutorials to do Videogames"],
+        showCursor: false,
+        typeSpeed: 75
+    });
+
+    $("#subtitulohowgames1").typed({
+        strings: ["Pong"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowgames2").typed({
+        strings: ["Design"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowgames3").typed({
+        strings: ["Tutorials"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowgames4").typed({
+        strings: ["Characters"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowgames5").typed({
+        strings: ["Environment"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowgames6").typed({
+        strings: ["Movement"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    //How to do Origami
+    $("#titulohoworigami1").typed({
+        strings: ["Tutorials to do Origami"],
+        showCursor: false,
+        typeSpeed: 75
+    });
+
+    $("#subtitulohoworigami1").typed({
+        strings: ["Crane"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohoworigami2").typed({
+        strings: ["Heart"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohoworigami3").typed({
+        strings: ["Butterfly"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohoworigami4").typed({
+        strings: ["Lily"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohoworigami5").typed({
+        strings: ["Shuriken"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohoworigami6").typed({
+        strings: ["Dragon"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    //How to do Sculpture
+    $("#titulohowsculpture1").typed({
+        strings: ["Tutorials to do Sculpture"],
+        showCursor: false,
+        typeSpeed: 75
+    });
+
+    $("#subtitulohowsculpture1").typed({
+        strings: ["Basics"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowsculpture2").typed({
+        strings: ["Hair"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowsculpture3").typed({
+        strings: ["Engine"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowsculpture4").typed({
+        strings: ["Alien"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowsculpture5").typed({
+        strings: ["Textures"],
+        showCursor: false,
+        typeSpeed: 150
+    });
+    $("#subtitulohowsculpture6").typed({
+        strings: ["Brushes"],
+        showCursor: false,
+        typeSpeed: 150
+    });
 });
 

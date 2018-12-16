@@ -37,7 +37,6 @@ body{
 	background:linear-gradient(#710101,black,black, #710101);
      font-family: "Verdana";
      font-weight:bold;
-     /*font-style:italic;*/
      border-style:solid;
      border:1px;
      border-color:white;
@@ -47,7 +46,6 @@ li:hover {
     background-color:#555555;
      font-family: "Verdana";
      font-weight:bold;
-     /*font-style:italic;*/
      border-style:solid;
      border:1px;
      border-color:white;
@@ -100,7 +98,6 @@ li:hover {
   	font-size: 50px;
   	font-weight: 1000px;
   	line-height: 0.5;
-
 	color: red; 
     opacity: 1;
 }
